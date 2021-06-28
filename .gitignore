@@ -1,7 +1,5 @@
-#Junk
+# OS junk
 .DS_Store
-.vscode/
-.idea/
 
 # Logs
 logs
