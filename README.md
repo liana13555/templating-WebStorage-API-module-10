@@ -1,4 +1,4 @@
 # parcel-project-template
 
-- [fontawesome](https://fontawesome.com/)
-- [date-fns](https://date-fns.org/)
+- [fontawesome](https://fontawesome.com/) - icon library
+- [date-fns](https://date-fns.org/) - Библиотека для работы со временем
